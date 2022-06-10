@@ -6,7 +6,9 @@ JavaScript is typically known as front end development language,it brings extra 
 The Dynamic webpage is built,by building a table to hold and neatly display the data we want to work with.Then we will add filters of that table,which let's users to refine their search on more than one level.
 
 ## Purpose of the Analysis
-The aim of this analysis,is to help Dana to write about her hometown McMinnville,Oregon.It is famous for its UFO sightings and even has an annual gathering of UFO enthusiasts.Using Java Script file,we have to filter the UFO sightings based on the countries,cities,state and type of the sightings.We can manipulate the data by adding the filters.We need to apply the filters and based upon on it the data is displayed.We will create the filters to make the this table fully dynamic,meaning it will react to the user input.The table is placed in to an HTML page for easy viewing.The customization is done using Bootstrap.
+The aim of this analysis,is to help Dana to write about her hometown McMinnville,Oregon.It is famous for its UFO sightings and even has an annual gathering of UFO enthusiasts.Using Java Script file,we have to filter the UFO sightings based on the countries,cities,state and type of the sightings.We can manipulate the data by adding the filters.We need to apply the filters and based upon on it the data is displayed.We will create the filters to make the this table fully dynamic,meaning it will react to the user input.The table is placed in to an HTML page for easy viewing.The customization is done using Bootstrap.<br>
+<img src = "https://github.com/fathi129/UFOs/blob/master/Screenshot%20UFO's/ufo_img.jpg" width = 700><br>
+ 
 
 ## Resources Used
 *DataSources*: data.js <br>
@@ -29,9 +31,12 @@ The table is built using the data stored in a javascript array,and the table is 
  
  To filter the UFO sightings on multiple criteria,We have created filters object which keeps track of the filter element ID and element value.First we need to create a variable called ChangedElement which keeps track of any changes in the filter.If any value is changed in the input field of the HTML page,those values are entered in to the filter object.The table is filtered based on the filter id and value,the new table is built with the filtered data.
  So in this way,the dynamic table is built by listening to the changes made in the input fields.
- We can see by entering the name of city as el cajon and shape as light we can retrieve the matching data from the table.
+ We can see by entering the name of city as el cajon and shape as light we can retrieve the matching data from the table.<br>
  
   <img src = "https://github.com/fathi129/UFOs/blob/master/Screenshot%20UFO's/search.png" width = 900><br>
+  When we enter all the fields like date as 1/1/2010 ,city as el cajon,state as ca,country as us,shape as triangle,the filtered table looks like below<br>
+  
+  <img src = "https://github.com/fathi129/UFOs/blob/master/Screenshot%20UFO's/Final%20img.png" width = 900><br>
   
   ## Summary
   We have successfully built a dynamic web page.But the drawback of this web page are
