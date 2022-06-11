@@ -13,8 +13,8 @@ We can manipulate the data by adding filters. We need to apply the filters, and 
 
 ## Resources Used
 *DataSources*: [data.js](https://github.com/fathi129/UFOs/blob/master/Static/js/data.js)<br>
-*Software used*: HTML, CSS, Bootstrap 3.3.7,D3.js Library<br>
-*Language*: JavaScript <br>
+*Software used*: HTML, CSS, Bootstrap 3.3.7,D3.js Library.<br>
+*Language*: JavaScript. <br>
 
 
 ## Results
