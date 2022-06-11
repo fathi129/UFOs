@@ -16,7 +16,6 @@ We can manipulate the data by adding filters. We need to apply the filters, and 
 *Software used*: HTML, CSS, Bootstrap 3.3.7,D3.js Library.<br>
 *Language*: JavaScript. <br>
 
-
 ## Results
 The Javascript is beneficial for DOM manipulations and Event handling. Using the D3 Library, We can listen to the events on the HTML page and write javascript according to that. Some of the events are Change, On Click, etc. The change event occurs whenever the user enters anything in the input field; on click takes place when the user presses the button. We can write code for the HTML element; If any reaction occurs in that component, we can perform specific action using javascript.<br>
 The webpage and dynamic table are built as intended, the table is created by referring to the table body and row, and each table data is retrieved and placed on the page. But we would like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria simultaneously. In addition to the date, we will add table filters for the city, state, country, and shape. For location-based data, a user can opt to view the results located in certain countries or cities. Our table will be inserted into and visually displayed by an HTML page. The initial web page looks like this header and article.<br>
