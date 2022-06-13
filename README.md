@@ -35,7 +35,7 @@ The table is built using the data stored in a javascript array, and the table is
   
   <img src = "https://github.com/fathi129/UFOs/blob/master/Screenshot%20UFO's/Final%20img.png" width = 900><br>
   
-  The UFO Webpage is deployed in Github pages : https://fathi129.github.io/UFOs/<br>
+  The UFO Webpage is deployed in Github pages : <a href= "https://fathi129.github.io/UFOs/">UFO Sightings</a><br>
   
   ## Summary
   We have successfully built a dynamic web page. But the drawback of this web page are
