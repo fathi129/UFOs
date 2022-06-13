@@ -35,6 +35,8 @@ The table is built using the data stored in a javascript array, and the table is
   
   <img src = "https://github.com/fathi129/UFOs/blob/master/Screenshot%20UFO's/Final%20img.png" width = 900><br>
   
+  The UFO Webpage is deployed in Github pages : https://fathi129.github.io/UFOs/<br>
+  
   ## Summary
   We have successfully built a dynamic web page. But the drawback of this web page are
   - The user has to specify the inputs as lower case, which is in the given data. They are case-sensitive and will not fetch the data from the table if the information does not match the table.<br>
